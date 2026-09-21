@@ -100,7 +100,7 @@ During held-out testing, the Main KB is frozen and no further alpha accumulation
 | Maximum Drawdown | **7.8%** |
 | Valid Ratio | **85.0%** |
 
-### Comparison with AlphaForge
+### Comparison with other method
 
 | Method | IC | ICIR | TIC | Sharpe | WR | MDD | VR |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
